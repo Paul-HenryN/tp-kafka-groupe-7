@@ -17,7 +17,7 @@ Le backend de notre application est développé avec Python, utilisant des bibli
 
 Le frontend est développé avec Streamlit, une bibliothèque Python permettant de créer rapidement des applications web interactives et réactives. Streamlit permet de visualiser en temps réel les données collectées et traitées, offrant une interface utilisateur intuitive pour surveiller et analyser les flux de données.
 
-![alt text](<Architecture Globale.png>)
+![alt text](<Architecture globale.png>)
 
 Cette architecture assure une séparation claire des responsabilités entre les différentes couches de l'application et permet de gérer efficacement les données pour différentes villes, assurant ainsi une scalabilité et une maintenabilité efficaces.
 
